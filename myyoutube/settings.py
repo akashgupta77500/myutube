@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6e4idfk8%$@kl(smet9p+s#%38sz^k2%n*80#k_e*j#x@c-w+p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['my-ue-tube.herokuapp.com']
 
 
 # Application definition
